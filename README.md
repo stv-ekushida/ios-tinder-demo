@@ -10,7 +10,7 @@ Tinder風UIのデモ
 ## 使い方
 1. カード用のViewを作る (今回は、CardViewとしました)
 2. カード用のViewをViewControllerに配置する
-3. ネクストView(nextView)に次のカードを設定する
+3. 次のカードを設定する(nextView)
 
 ## 環境
 |環境 | Ver. |
